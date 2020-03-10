@@ -1,0 +1,9 @@
+
+Create component on app root
+ng g c header --flat
+
+Create component without spec file
+ng g c header --spec false
+
+Create component another directory
+ng g c core/home 
